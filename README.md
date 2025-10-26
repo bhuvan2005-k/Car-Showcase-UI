@@ -24,26 +24,25 @@ This project demonstrates **modern UI techniques** like transitions, fade-ins, a
 
 ## How to Run
 
-1. **Clone this repository:**
+### 1. **Clone this repository:**
 
 ```bash
 git clone https://github.com/bhuvan2005-k/Car_Showcase-UI.git
 cd Car_Showcase-UI
+```
 
 2. **Open index.html in your browser:**
-
+```bash
 -Double-click the file or
-
 -Right-click → Open with → Your browser
+```
 
 3. **Project Structure:**
-
+```bash
 -index.html – Main HTML page
-
 -Position.css – Styling and animations
-
 -rolz_royes.jpg – Local image used in showcase
-
+```
 
 ## Author
 
