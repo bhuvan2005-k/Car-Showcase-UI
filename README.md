@@ -31,13 +31,13 @@ git clone https://github.com/bhuvan2005-k/Car_Showcase-UI.git
 cd Car_Showcase-UI
 ```
 
-2. **Open index.html in your browser:**
+### 2. **Open index.html in your browser:**
 ```bash
 -Double-click the file or
 -Right-click → Open with → Your browser
 ```
 
-3. **Project Structure:**
+### 3. **Project Structure:**
 ```bash
 -index.html – Main HTML page
 -Position.css – Styling and animations
@@ -45,5 +45,4 @@ cd Car_Showcase-UI
 ```
 
 ## Author
-
-Bhuvaneshwari K – GitHub
+Bhuvaneshwari K - [GitHub](https://github.com/bhuvan2005-k)
